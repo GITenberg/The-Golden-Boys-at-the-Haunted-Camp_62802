@@ -1,11 +1,14 @@
 _repo: The-Golden-Boys-at-the-Haunted-Camp_62802
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Hooper, F. J.
     alias: Hooper, F.J.
     gutenberg_agent_id: '52011'
     url: http://www.gutenberg.org/2009/agents/52011
+covers:
+- cover_type: archival
+  image_path: 62802-h/images/cover.jpg
 creator:
   author:
     agent_name: Wyman, L. P. (Levi Parker)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '42061'
     url: http://www.gutenberg.org/2009/agents/42061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62802#The-Golden-Boys-at-the-Haunted-Camp
 gutenberg_issued: '2020-08-01'
 gutenberg_type: Text
 identifiers:
