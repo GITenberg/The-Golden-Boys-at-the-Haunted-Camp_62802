@@ -1,0 +1,34 @@
+_repo: The-Golden-Boys-at-the-Haunted-Camp_62802
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hooper, F. J.
+    alias: Hooper, F.J.
+    gutenberg_agent_id: '52011'
+    url: http://www.gutenberg.org/2009/agents/52011
+creator:
+  author:
+    agent_name: Wyman, L. P. (Levi Parker)
+    alias: Wyman, Levi Parker
+    birthdate: 1873
+    gutenberg_agent_id: '42061'
+    url: http://www.gutenberg.org/2009/agents/42061
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcsh 'Haunted places -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Camp sites, facilities, etc. -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Golden Boys at the Haunted Camp
+url: http://www.gutenberg.org/ebooks/62802
